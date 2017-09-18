@@ -1,0 +1,10 @@
+__author__ = 'Surya'
+print("     * ")
+print("    * *")
+print("   *   *")
+print("  *     *")
+print(" *********")
+print("  *     *")
+print("   *   *")
+print("    * *")
+print("     *")
